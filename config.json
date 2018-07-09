@@ -1,0 +1,10 @@
+{
+  "mysql":{
+    "host": "127.0.0.1",
+    "user": "root",
+    "password": "19971214",
+    "port": "3306",
+    "database": "markdown",
+    "connectionLimit": 100
+  }
+}
